@@ -1,8 +1,8 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Faris and I'm a helicopter, from Indonesia</h2>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="150" src="https://c.tenor.com/UcpzfXzOr0MAAAAd/tenor.gif"  />
 
 ###
 
