@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Faris and I'm a helicopter, from Indonesia</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Faris and I'm a Front-End Developer, from Indonesia</h2>
 
 ###
 
